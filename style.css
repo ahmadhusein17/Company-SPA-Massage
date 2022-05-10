@@ -19,6 +19,7 @@ section {
     background-size: cover;
     background-attachment: fixed;
     min-height: 800px;
+    width: 100%;
 }
 
 .home .deskripsi {
