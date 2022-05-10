@@ -1,0 +1,103 @@
+section {
+    min-height: 600px;
+    padding-top: 5rem;
+}
+
+.navbar img {
+    margin-top: -17px;
+    height: 50px;
+}
+
+.navbar .nav-link:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.home {
+    background-image: url(image/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 800px;
+}
+
+.home .deskripsi {
+    font-family: inherit;
+}
+
+.home .btn {
+    border-radius: 20px;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.jumbotron {
+    padding-top: 10rem;
+    background-attachment: fixed;
+}
+
+.layanan {
+    min-height: 800px;
+    padding-top: 4rem;
+}
+
+.layanan .card {
+    justify-content: center;
+}
+
+.fasilitas {
+    background-color: #fff2cc;
+    padding-top: 5rem;
+}
+
+.fasilitas .logo {
+    background: #fff2cc;
+    border: none;
+}
+
+.fasilitas h5 {
+    color: #ea9999;
+}
+
+.hubungi {
+    background-color: goldenrod;
+    color: white;
+    min-height: 400px;
+}
+
+.hubungi .tel,
+.whatsapp {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+}
+
+.hubungi .tel,
+.whatsapp:hover {
+    color: white;
+}
+
+.footer {
+    width: auto;
+    min-height: 600px;
+    background-color: rgb(51, 51, 51);
+}
+
+.wabutton {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 1000;
+}
+
+.hubungi button {
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
