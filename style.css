@@ -1,6 +1,6 @@
 section {
     min-height: 600px;
-    padding-top: 5rem;
+    padding-top: 4rem;
 }
 
 .navbar img {
@@ -41,7 +41,6 @@ section {
 
 .layanan {
     min-height: 800px;
-    padding-top: 4rem;
 }
 
 .layanan .card {
